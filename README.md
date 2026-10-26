@@ -3,6 +3,10 @@
 Comparaison de 3 détecteurs de contours avec OpenCV (C++) sur la base d'images de l'université de Groningen
 (40 images 512x512 et leurs contours de référence tracés à la main).
 
+**Vidéos explicatives (2 parties) :** https://1drv.ms/f/c/18aa5be2da13fabc/IgAIzMLzP1mtSIZir8p9cgWQAYSw0MRjaYpoPDuASovtNqs?e=MEMSkd
+
+**Auteur :** Sall Oumar
+
 - `main.cpp` : code source
 - `Rapport_TP_contours_Sall_Oumar.pdf` (et `.docx`) : rapport
 - `images/` : images de la base, références dans `images/gt/`
