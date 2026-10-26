@@ -8,7 +8,7 @@ Comparaison de 3 détecteurs de contours avec OpenCV (C++) sur la base d'images 
 **Auteur :** Sall Oumar
 
 - `main.cpp` : code source
-- `Rapport_TP_contours_Sall_Oumar.pdf` (et `.docx`) : rapport
+- `Rapport_TP_contours_Sall_Oumar.pdf` : rapport
 - `images/` : images de la base, références dans `images/gt/`
 - `resultats/` : fichiers CSV et images de comparaison (vert = correct, rouge = faux positif, bleu = faux négatif)
 
